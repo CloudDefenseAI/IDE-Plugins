@@ -19,7 +19,7 @@
 4. **Select "Install Plugin from Disk":**
    - In the **Plugins** window, click on the gear icon ⚙️ (at the top right corner).
    - Choose **Install Plugin from Disk** from the dropdown menu.
-     <img src="https://github.com/CloudDefenseAI/IDE-Plugins/blob/master/Intellij%20ultimate/static/plugin.PNG" alt="" width="200px;"></a>
+     <img src="https://github.com/CloudDefenseAI/IDE-Plugins/blob/master/Intellij%20ultimate/static/plugin.PNG" alt="" width="200px;">
 
 5. **Locate the Plugin File:**
    - Browse to the location of your plugin `.jar` file or folder on your system.
